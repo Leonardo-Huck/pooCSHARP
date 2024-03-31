@@ -4,7 +4,6 @@
     {
         static void Main(string[] args)
         { 
-            Alarme alarme = new Alarme();
             string resposta = "S";
             while(resposta != "N")
             {
@@ -13,17 +12,20 @@
 
                 Console.Write("\nInforme a duracao do Pitch: ");
                 int tempo = Convert.ToInt32(Console.ReadLine());
-                alarme.Tempo = tempo;
+
+                Console.Write("Informe a frequencia do Beep de 1 a 1000: ");
+                int frequencia = Convert.ToInt32(Console.ReadLine());
+
+                Console.Write("Informe a duracao do Beep de 1 a 100: ");
+                int duracao = Convert.ToInt32(Console.ReadLine());
+                
+                Alarme alarme = new Alarme(tempo,frequencia, duracao);
                 alarme.Iniciar();
-                Console.WriteLine("Que pena!! Seu tempo acabou!!");
+                Console.WriteLine("\nQue pena!! Seu tempo acabou!!");
 
                 Console.Write("\nExecutar o programa novamente S/N ? ");
                 resposta = Console.ReadLine().ToUpper();
-
-            }
-
-            alarme.Mario();
-            
+            }           
         }
     }
 }
