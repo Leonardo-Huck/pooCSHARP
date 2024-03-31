@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AHoraDoPitch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfa9d0e5036f0b6888949e8b3cc5cf2faf0bc2a9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3beebf2a652ae72d0a2e62a78ebcf7fc07fee755")]
 [assembly: System.Reflection.AssemblyProductAttribute("AHoraDoPitch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AHoraDoPitch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

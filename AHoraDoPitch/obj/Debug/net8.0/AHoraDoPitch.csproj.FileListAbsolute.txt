@@ -1,0 +1,15 @@
+C:\dev\pooCSHARP\AHoraDoPitch\bin\Debug\net8.0\AHoraDoPitch.exe
+C:\dev\pooCSHARP\AHoraDoPitch\bin\Debug\net8.0\AHoraDoPitch.deps.json
+C:\dev\pooCSHARP\AHoraDoPitch\bin\Debug\net8.0\AHoraDoPitch.runtimeconfig.json
+C:\dev\pooCSHARP\AHoraDoPitch\bin\Debug\net8.0\AHoraDoPitch.dll
+C:\dev\pooCSHARP\AHoraDoPitch\bin\Debug\net8.0\AHoraDoPitch.pdb
+C:\dev\pooCSHARP\AHoraDoPitch\obj\Debug\net8.0\AHoraDoPitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\pooCSHARP\AHoraDoPitch\obj\Debug\net8.0\AHoraDoPitch.AssemblyInfoInputs.cache
+C:\dev\pooCSHARP\AHoraDoPitch\obj\Debug\net8.0\AHoraDoPitch.AssemblyInfo.cs
+C:\dev\pooCSHARP\AHoraDoPitch\obj\Debug\net8.0\AHoraDoPitch.csproj.CoreCompileInputs.cache
+C:\dev\pooCSHARP\AHoraDoPitch\obj\Debug\net8.0\AHoraDoPitch.sourcelink.json
+C:\dev\pooCSHARP\AHoraDoPitch\obj\Debug\net8.0\AHoraDoPitch.dll
+C:\dev\pooCSHARP\AHoraDoPitch\obj\Debug\net8.0\refint\AHoraDoPitch.dll
+C:\dev\pooCSHARP\AHoraDoPitch\obj\Debug\net8.0\AHoraDoPitch.pdb
+C:\dev\pooCSHARP\AHoraDoPitch\obj\Debug\net8.0\AHoraDoPitch.genruntimeconfig.cache
+C:\dev\pooCSHARP\AHoraDoPitch\obj\Debug\net8.0\ref\AHoraDoPitch.dll
