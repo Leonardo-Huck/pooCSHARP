@@ -9,6 +9,11 @@ public class Pokemon
         Nome = "";
         Descricao = "";
     }
+    public Pokemon(string nome, string descricao)
+    {
+        Nome = nome;
+        Descricao = descricao;
+    }
     public string Nome { get; set; }
     public string Descricao { get; set; }
 
