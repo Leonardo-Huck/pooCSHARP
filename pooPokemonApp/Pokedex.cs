@@ -6,7 +6,7 @@ public class Pokedex
     {
         InicializaLista();
     }
-    public List<Pokemon> Pokemons { get; private set; }
+    public static List<Pokemon> Pokemons { get; private set; }
 
     private void InicializaLista()
     {
@@ -23,13 +23,26 @@ public class Pokedex
         Pokemons.Add(pokemon);
         pokemon = new Pokemon("Metagross", "Metal");
         Pokemons.Add(pokemon);
-        pokemon = new Pokemon("Emolga", "Pokemom mais chato do universo");
+        pokemon = new Pokemon("Emolga", "Pokemom mais chato do mundo");
         Pokemons.Add(pokemon);
         pokemon = new Pokemon("Dito", "Pokemom que copia");
         Pokemons.Add(pokemon);
         pokemon = new Pokemon("Lucario", "Pokemon Lutador");
         Pokemons.Add(pokemon);
-        pokemon = new Pokemon("Spiritomb", "Mais chato do universo^2");
+        pokemon = new Pokemon("Spiritomb", "Mais chato do universo");
         Pokemons.Add(pokemon);
+    }
+
+    public static void ListarPokemons()
+    {
+        Console.Clear();
+        Console.WriteLine("-------POKEMONS CADASTRADOS-------");
+        foreach (var pokemon in Pokemons)
+        {
+            pokemon.ExibirDadosPokemon();
+            Console.WriteLine();
+        }
+        
+        Console.ReadKey();
     }
 }
