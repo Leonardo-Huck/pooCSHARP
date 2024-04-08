@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ControleDeAnimais
 {
+	public enum TipoAnimal {Cachorro, Gato, Peixe};
     public class Animal
     {
 		private string nome;
@@ -16,18 +17,12 @@ namespace ControleDeAnimais
 			set { nome = value.ToUpper(); }
 		}
 
-		private string tipo;
+		private TipoAnimal tipo;
 
-		public string Tipo
+		public TipoAnimal Tipo
 		{
 			get { return tipo; }
-			set
-			{
-				if (value == "Cachorro" || value == "Gato" || value == "Peixe")
-					tipo = value; 
-				else 
-					tipo = "Peixe";
-			}
+			set { tipo = value; }
 		}
 
 	}

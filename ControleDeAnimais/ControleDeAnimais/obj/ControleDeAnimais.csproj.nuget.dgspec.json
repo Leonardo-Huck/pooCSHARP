@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\ControleDeAnimais\\ControleDeAnimais\\ControleDeAnimais.csproj": {}
+    "C:\\dev\\pooCSHARP\\ControleDeAnimais\\ControleDeAnimais\\ControleDeAnimais.csproj": {}
   },
   "projects": {
-    "C:\\dev\\ControleDeAnimais\\ControleDeAnimais\\ControleDeAnimais.csproj": {
+    "C:\\dev\\pooCSHARP\\ControleDeAnimais\\ControleDeAnimais\\ControleDeAnimais.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\ControleDeAnimais\\ControleDeAnimais\\ControleDeAnimais.csproj",
+        "projectUniqueName": "C:\\dev\\pooCSHARP\\ControleDeAnimais\\ControleDeAnimais\\ControleDeAnimais.csproj",
         "projectName": "ControleDeAnimais",
-        "projectPath": "C:\\dev\\ControleDeAnimais\\ControleDeAnimais\\ControleDeAnimais.csproj",
+        "projectPath": "C:\\dev\\pooCSHARP\\ControleDeAnimais\\ControleDeAnimais\\ControleDeAnimais.csproj",
         "packagesPath": "C:\\Users\\Mauro\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\ControleDeAnimais\\ControleDeAnimais\\obj\\",
+        "outputPath": "C:\\dev\\pooCSHARP\\ControleDeAnimais\\ControleDeAnimais\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
