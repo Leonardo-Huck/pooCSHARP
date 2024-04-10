@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pooPokemonApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e594375f8b2b7d820f32b8dc58be35c3299ef6d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36264d268f6c78c14f51312fea767ee069fb7509")]
 [assembly: System.Reflection.AssemblyProductAttribute("pooPokemonApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pooPokemonApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

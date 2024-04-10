@@ -45,4 +45,16 @@ public class Pokedex
         
         Console.ReadKey();
     }
+
+    public static void ListaRapida()
+    {
+        Console.Clear();
+        Console.WriteLine("-------POKEMONS CADASTRADOS-------");
+        for (var i = 0; i<Pokemons.Count; i++ )
+        {
+            Console.Write("ID: " + i);
+            Console.WriteLine("     Nome: "+Pokemons[i].Nome);
+            Console.WriteLine();
+        }
+    }
 }
