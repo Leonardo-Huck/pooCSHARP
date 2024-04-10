@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/dvNghVK8xv6s7Efc/LI/tJhP182Jrv2nfTrdHYRWMigSZGKzaSdzGTfsldkNTyqyb93FTI6geZVn5rFkWhW1w==",
+  "dgSpecHash": "qiYTAIY8IYwWegEfkNsv4nmgh5KDwXWxPNTt5kry6t21AkBkDmrw5Yo8tMEmDp8VvH0TbHjelyYnI9ZaMR4IUA==",
   "success": true,
-  "projectFilePath": "/home/leonardo/Documentos/dev/POOCSHARP/pooPokemonApp/pooPokemonApp.csproj",
+  "projectFilePath": "C:\\dev\\pooCSHARP\\pooPokemonApp\\pooPokemonApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

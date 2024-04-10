@@ -6,30 +6,30 @@ public class Pokedex
     {
         InicializaLista();
     }
-    public static List<Pokemon> Pokemons { get; private set; }
+    public static List<PokemonPlus> Pokemons { get; private set; }
 
     private void InicializaLista()
     {
-        Pokemons = new List<Pokemon>();
-        Pokemon pokemon = new Pokemon("Bulbasauro", "Planta");
+        Pokemons = new List<PokemonPlus>();
+        PokemonPlus pokemon = new PokemonPlus("Bulbasauro", "Planta", 30);
         Pokemons.Add(pokemon);
-        pokemon = new Pokemon("Mew", "Lendário Psiquico");
+        pokemon = new PokemonPlus("Mew", "Lendário Psiquico", 100);
         Pokemons.Add(pokemon);
-        pokemon = new Pokemon("Mewtwo", "Lendário Psiquico");
+        pokemon = new PokemonPlus("Mewtwo", "Lendário Psiquico", 100);
         Pokemons.Add(pokemon);
-        pokemon = new Pokemon("Giratina", "Lendário Fantasma");
+        pokemon = new PokemonPlus("Giratina", "Lendário Fantasma", 95);
         Pokemons.Add(pokemon);
-        pokemon = new Pokemon("Flygon", "Dragão");
+        pokemon = new PokemonPlus("Flygon", "Dragão", 50);
         Pokemons.Add(pokemon);
-        pokemon = new Pokemon("Metagross", "Metal");
+        pokemon = new PokemonPlus("Metagross", "Metal", 60);
         Pokemons.Add(pokemon);
-        pokemon = new Pokemon("Emolga", "Pokemom mais chato do mundo");
+        pokemon = new PokemonPlus("Emolga", "Pokemom mais chato do mundo", 99);
         Pokemons.Add(pokemon);
-        pokemon = new Pokemon("Dito", "Pokemom que copia");
+        pokemon = new PokemonPlus("Dito", "Pokemom que copia", 50);
         Pokemons.Add(pokemon);
-        pokemon = new Pokemon("Lucario", "Pokemon Lutador");
+        pokemon = new PokemonPlus("Lucario", "Pokemon Lutador", 80);
         Pokemons.Add(pokemon);
-        pokemon = new Pokemon("Spiritomb", "Mais chato do universo");
+        pokemon = new PokemonPlus("Spiritomb", "Mais chato do universo", 999);
         Pokemons.Add(pokemon);
     }
 
