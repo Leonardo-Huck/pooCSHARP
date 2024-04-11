@@ -1,0 +1,15 @@
+C:\dev\pooCSHARP\pooJogoAdivinhacao\bin\Debug\net8.0\pooJogoAdivinhacao.exe
+C:\dev\pooCSHARP\pooJogoAdivinhacao\bin\Debug\net8.0\pooJogoAdivinhacao.deps.json
+C:\dev\pooCSHARP\pooJogoAdivinhacao\bin\Debug\net8.0\pooJogoAdivinhacao.runtimeconfig.json
+C:\dev\pooCSHARP\pooJogoAdivinhacao\bin\Debug\net8.0\pooJogoAdivinhacao.dll
+C:\dev\pooCSHARP\pooJogoAdivinhacao\bin\Debug\net8.0\pooJogoAdivinhacao.pdb
+C:\dev\pooCSHARP\pooJogoAdivinhacao\obj\Debug\net8.0\pooJogoAdivinhacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\pooCSHARP\pooJogoAdivinhacao\obj\Debug\net8.0\pooJogoAdivinhacao.AssemblyInfoInputs.cache
+C:\dev\pooCSHARP\pooJogoAdivinhacao\obj\Debug\net8.0\pooJogoAdivinhacao.AssemblyInfo.cs
+C:\dev\pooCSHARP\pooJogoAdivinhacao\obj\Debug\net8.0\pooJogoAdivinhacao.csproj.CoreCompileInputs.cache
+C:\dev\pooCSHARP\pooJogoAdivinhacao\obj\Debug\net8.0\pooJogoAdivinhacao.sourcelink.json
+C:\dev\pooCSHARP\pooJogoAdivinhacao\obj\Debug\net8.0\pooJogoAdivinhacao.dll
+C:\dev\pooCSHARP\pooJogoAdivinhacao\obj\Debug\net8.0\refint\pooJogoAdivinhacao.dll
+C:\dev\pooCSHARP\pooJogoAdivinhacao\obj\Debug\net8.0\pooJogoAdivinhacao.pdb
+C:\dev\pooCSHARP\pooJogoAdivinhacao\obj\Debug\net8.0\pooJogoAdivinhacao.genruntimeconfig.cache
+C:\dev\pooCSHARP\pooJogoAdivinhacao\obj\Debug\net8.0\ref\pooJogoAdivinhacao.dll
