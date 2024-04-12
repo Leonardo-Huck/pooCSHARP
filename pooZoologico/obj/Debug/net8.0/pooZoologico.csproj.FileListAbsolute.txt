@@ -1,0 +1,15 @@
+C:\dev\pooCSHARP\pooZoologico\bin\Debug\net8.0\pooZoologico.exe
+C:\dev\pooCSHARP\pooZoologico\bin\Debug\net8.0\pooZoologico.deps.json
+C:\dev\pooCSHARP\pooZoologico\bin\Debug\net8.0\pooZoologico.runtimeconfig.json
+C:\dev\pooCSHARP\pooZoologico\bin\Debug\net8.0\pooZoologico.dll
+C:\dev\pooCSHARP\pooZoologico\bin\Debug\net8.0\pooZoologico.pdb
+C:\dev\pooCSHARP\pooZoologico\obj\Debug\net8.0\pooZoologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\pooCSHARP\pooZoologico\obj\Debug\net8.0\pooZoologico.AssemblyInfoInputs.cache
+C:\dev\pooCSHARP\pooZoologico\obj\Debug\net8.0\pooZoologico.AssemblyInfo.cs
+C:\dev\pooCSHARP\pooZoologico\obj\Debug\net8.0\pooZoologico.csproj.CoreCompileInputs.cache
+C:\dev\pooCSHARP\pooZoologico\obj\Debug\net8.0\pooZoologico.sourcelink.json
+C:\dev\pooCSHARP\pooZoologico\obj\Debug\net8.0\pooZoologico.dll
+C:\dev\pooCSHARP\pooZoologico\obj\Debug\net8.0\refint\pooZoologico.dll
+C:\dev\pooCSHARP\pooZoologico\obj\Debug\net8.0\pooZoologico.pdb
+C:\dev\pooCSHARP\pooZoologico\obj\Debug\net8.0\pooZoologico.genruntimeconfig.cache
+C:\dev\pooCSHARP\pooZoologico\obj\Debug\net8.0\ref\pooZoologico.dll
