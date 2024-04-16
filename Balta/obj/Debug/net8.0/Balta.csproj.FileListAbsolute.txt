@@ -1,0 +1,15 @@
+C:\dev\POOCSHARP\Balta\obj\Debug\net8.0\Balta.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\POOCSHARP\Balta\obj\Debug\net8.0\Balta.AssemblyInfoInputs.cache
+C:\dev\POOCSHARP\Balta\obj\Debug\net8.0\Balta.AssemblyInfo.cs
+C:\dev\POOCSHARP\Balta\obj\Debug\net8.0\Balta.csproj.CoreCompileInputs.cache
+C:\dev\POOCSHARP\Balta\obj\Debug\net8.0\Balta.sourcelink.json
+C:\dev\POOCSHARP\Balta\bin\Debug\net8.0\Balta.exe
+C:\dev\POOCSHARP\Balta\bin\Debug\net8.0\Balta.deps.json
+C:\dev\POOCSHARP\Balta\bin\Debug\net8.0\Balta.runtimeconfig.json
+C:\dev\POOCSHARP\Balta\bin\Debug\net8.0\Balta.dll
+C:\dev\POOCSHARP\Balta\bin\Debug\net8.0\Balta.pdb
+C:\dev\POOCSHARP\Balta\obj\Debug\net8.0\Balta.dll
+C:\dev\POOCSHARP\Balta\obj\Debug\net8.0\refint\Balta.dll
+C:\dev\POOCSHARP\Balta\obj\Debug\net8.0\Balta.pdb
+C:\dev\POOCSHARP\Balta\obj\Debug\net8.0\Balta.genruntimeconfig.cache
+C:\dev\POOCSHARP\Balta\obj\Debug\net8.0\ref\Balta.dll
