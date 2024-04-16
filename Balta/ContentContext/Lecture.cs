@@ -1,4 +1,5 @@
 using Balta.ContentContext.Enums;
+using Balta.SharedContext;
 
 namespace Balta.ContentContext
 {
