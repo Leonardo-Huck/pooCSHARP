@@ -1,5 +1,6 @@
 ﻿using System.Linq;
 using Balta.ContentContext;
+using Balta.SubscriptionContext;
 namespace Balta;
 
 class Program
@@ -49,5 +50,9 @@ class Program
                 Console.WriteLine(item.Course.Level);
             }
         }
+        var payPalSubscription = new PayPalSubscription();
+        var student = new Student();
+
+        student.CreateSubscription(payPalSubscription);
     }
 }
